@@ -1,0 +1,801 @@
+PokedexNumber,Name,Type,Total,HP,Attack,Defense,SpecialAttack,SpecialDefense,Speed
+1,Bulbasaur,GrassPoison,318 points!,45 points!,49 points!,49 points!,65 points!,65 points!,45 points!
+2,Ivysaur,GrassPoison,405 points!,60 points!,62 points!,63 points!,80 points!,80 points!,60 points!
+3,Venusaur,GrassPoison,525 points!,80 points!,82 points!,83 points!,100 points!,100 points!,80 points!
+3,VenusaurMega Venusaur,GrassPoison,625 points!,80 points!,100 points!,123 points!,122 points!,120 points!,80 points!
+4,Charmander,Fire,309 points!,39 points!,52 points!,43 points!,60 points!,50 points!,65 points!
+5,Charmeleon,Fire,405 points!,58 points!,64 points!,58 points!,80 points!,65 points!,80 points!
+6,Charizard,FireFlying,534 points!,78 points!,84 points!,78 points!,109 points!,85 points!,100 points!
+6,CharizardMega Charizard X,FireDragon,634 points!,78 points!,130 points!,111 points!,130 points!,85 points!,100 points!
+6,CharizardMega Charizard Y,FireFlying,634 points!,78 points!,104 points!,78 points!,159 points!,115 points!,100 points!
+7,Squirtle,Water,314 points!,44 points!,48 points!,65 points!,50 points!,64 points!,43 points!
+8,Wartortle,Water,405 points!,59 points!,63 points!,80 points!,65 points!,80 points!,58 points!
+9,Blastoise,Water,530 points!,79 points!,83 points!,100 points!,85 points!,105 points!,78 points!
+9,BlastoiseMega Blastoise,Water,630 points!,79 points!,103 points!,120 points!,135 points!,115 points!,78 points!
+10,Caterpie,Bug,195 points!,45 points!,30 points!,35 points!,20 points!,20 points!,45 points!
+11,Metapod,Bug,205 points!,50 points!,20 points!,55 points!,25 points!,25 points!,30 points!
+12,Butterfree,BugFlying,395 points!,60 points!,45 points!,50 points!,90 points!,80 points!,70 points!
+13,Weedle,BugPoison,195 points!,40 points!,35 points!,30 points!,20 points!,20 points!,50 points!
+14,Kakuna,BugPoison,205 points!,45 points!,25 points!,50 points!,25 points!,25 points!,35 points!
+15,Beedrill,BugPoison,395 points!,65 points!,90 points!,40 points!,45 points!,80 points!,75 points!
+15,BeedrillMega Beedrill,BugPoison,495 points!,65 points!,150 points!,40 points!,15 points!,80 points!,145 points!
+16,Pidgey,NormalFlying,251 points!,40 points!,45 points!,40 points!,35 points!,35 points!,56 points!
+17,Pidgeotto,NormalFlying,349 points!,63 points!,60 points!,55 points!,50 points!,50 points!,71 points!
+18,Pidgeot,NormalFlying,479 points!,83 points!,80 points!,75 points!,70 points!,70 points!,101 points!
+18,PidgeotMega Pidgeot,NormalFlying,579 points!,83 points!,80 points!,80 points!,135 points!,80 points!,121 points!
+19,Rattata,Normal,253 points!,30 points!,56 points!,35 points!,25 points!,35 points!,72 points!
+20,Raticate,Normal,413 points!,55 points!,81 points!,60 points!,50 points!,70 points!,97 points!
+21,Spearow,NormalFlying,262 points!,40 points!,60 points!,30 points!,31 points!,31 points!,70 points!
+22,Fearow,NormalFlying,442 points!,65 points!,90 points!,65 points!,61 points!,61 points!,100 points!
+23,Ekans,Poison,288 points!,35 points!,60 points!,44 points!,40 points!,54 points!,55 points!
+24,Arbok,Poison,438 points!,60 points!,85 points!,69 points!,65 points!,79 points!,80 points!
+25,Pikachu,Electric,320 points!,35 points!,55 points!,40 points!,50 points!,50 points!,90 points!
+26,Raichu,Electric,485 points!,60 points!,90 points!,55 points!,90 points!,80 points!,110 points!
+27,Sandshrew,Ground,300 points!,50 points!,75 points!,85 points!,20 points!,30 points!,40 points!
+28,Sandslash,Ground,450 points!,75 points!,100 points!,110 points!,45 points!,55 points!,65 points!
+29,NidoranF,Poison,275 points!,55 points!,47 points!,52 points!,40 points!,40 points!,41 points!
+30,Nidorina,Poison,365 points!,70 points!,62 points!,67 points!,55 points!,55 points!,56 points!
+31,Nidoqueen,PoisonGround,505 points!,90 points!,92 points!,87 points!,75 points!,85 points!,76 points!
+32,NidoranM,Poison,273 points!,46 points!,57 points!,40 points!,40 points!,40 points!,50 points!
+33,Nidorino,Poison,365 points!,61 points!,72 points!,57 points!,55 points!,55 points!,65 points!
+34,Nidoking,PoisonGround,505 points!,81 points!,102 points!,77 points!,85 points!,75 points!,85 points!
+35,Clefairy,Fairy,323 points!,70 points!,45 points!,48 points!,60 points!,65 points!,35 points!
+36,Clefable,Fairy,483 points!,95 points!,70 points!,73 points!,95 points!,90 points!,60 points!
+37,Vulpix,Fire,299 points!,38 points!,41 points!,40 points!,50 points!,65 points!,65 points!
+38,Ninetales,Fire,505 points!,73 points!,76 points!,75 points!,81 points!,100 points!,100 points!
+39,Jigglypuff,NormalFairy,270 points!,115 points!,45 points!,20 points!,45 points!,25 points!,20 points!
+40,Wigglytuff,NormalFairy,435 points!,140 points!,70 points!,45 points!,85 points!,50 points!,45 points!
+41,Zubat,PoisonFlying,245 points!,40 points!,45 points!,35 points!,30 points!,40 points!,55 points!
+42,Golbat,PoisonFlying,455 points!,75 points!,80 points!,70 points!,65 points!,75 points!,90 points!
+43,Oddish,GrassPoison,320 points!,45 points!,50 points!,55 points!,75 points!,65 points!,30 points!
+44,Gloom,GrassPoison,395 points!,60 points!,65 points!,70 points!,85 points!,75 points!,40 points!
+45,Vileplume,GrassPoison,490 points!,75 points!,80 points!,85 points!,110 points!,90 points!,50 points!
+46,Paras,BugGrass,285 points!,35 points!,70 points!,55 points!,45 points!,55 points!,25 points!
+47,Parasect,BugGrass,405 points!,60 points!,95 points!,80 points!,60 points!,80 points!,30 points!
+48,Venonat,BugPoison,305 points!,60 points!,55 points!,50 points!,40 points!,55 points!,45 points!
+49,Venomoth,BugPoison,450 points!,70 points!,65 points!,60 points!,90 points!,75 points!,90 points!
+50,Diglett,Ground,265 points!,10 points!,55 points!,25 points!,35 points!,45 points!,95 points!
+51,Dugtrio,Ground,405 points!,35 points!,80 points!,50 points!,50 points!,70 points!,120 points!
+52,Meowth,Normal,290 points!,40 points!,45 points!,35 points!,40 points!,40 points!,90 points!
+53,Persian,Normal,440 points!,65 points!,70 points!,60 points!,65 points!,65 points!,115 points!
+54,Psyduck,Water,320 points!,50 points!,52 points!,48 points!,65 points!,50 points!,55 points!
+55,Golduck,Water,500 points!,80 points!,82 points!,78 points!,95 points!,80 points!,85 points!
+56,Mankey,Fighting,305 points!,40 points!,80 points!,35 points!,35 points!,45 points!,70 points!
+57,Primeape,Fighting,455 points!,65 points!,105 points!,60 points!,60 points!,70 points!,95 points!
+58,Growlithe,Fire,350 points!,55 points!,70 points!,45 points!,70 points!,50 points!,60 points!
+59,Arcanine,Fire,555 points!,90 points!,110 points!,80 points!,100 points!,80 points!,95 points!
+60,Poliwag,Water,300 points!,40 points!,50 points!,40 points!,40 points!,40 points!,90 points!
+61,Poliwhirl,Water,385 points!,65 points!,65 points!,65 points!,50 points!,50 points!,90 points!
+62,Poliwrath,WaterFighting,510 points!,90 points!,95 points!,95 points!,70 points!,90 points!,70 points!
+63,Abra,Psychic,310 points!,25 points!,20 points!,15 points!,105 points!,55 points!,90 points!
+64,Kadabra,Psychic,400 points!,40 points!,35 points!,30 points!,120 points!,70 points!,105 points!
+65,Alakazam,Psychic,500 points!,55 points!,50 points!,45 points!,135 points!,95 points!,120 points!
+65,AlakazamMega Alakazam,Psychic,590 points!,55 points!,50 points!,65 points!,175 points!,95 points!,150 points!
+66,Machop,Fighting,305 points!,70 points!,80 points!,50 points!,35 points!,35 points!,35 points!
+67,Machoke,Fighting,405 points!,80 points!,100 points!,70 points!,50 points!,60 points!,45 points!
+68,Machamp,Fighting,505 points!,90 points!,130 points!,80 points!,65 points!,85 points!,55 points!
+69,Bellsprout,GrassPoison,300 points!,50 points!,75 points!,35 points!,70 points!,30 points!,40 points!
+70,Weepinbell,GrassPoison,390 points!,65 points!,90 points!,50 points!,85 points!,45 points!,55 points!
+71,Victreebel,GrassPoison,490 points!,80 points!,105 points!,65 points!,100 points!,70 points!,70 points!
+72,Tentacool,WaterPoison,335 points!,40 points!,40 points!,35 points!,50 points!,100 points!,70 points!
+73,Tentacruel,WaterPoison,515 points!,80 points!,70 points!,65 points!,80 points!,120 points!,100 points!
+74,Geodude,RockGround,300 points!,40 points!,80 points!,100 points!,30 points!,30 points!,20 points!
+75,Graveler,RockGround,390 points!,55 points!,95 points!,115 points!,45 points!,45 points!,35 points!
+76,Golem,RockGround,495 points!,80 points!,120 points!,130 points!,55 points!,65 points!,45 points!
+77,Ponyta,Fire,410 points!,50 points!,85 points!,55 points!,65 points!,65 points!,90 points!
+78,Rapidash,Fire,500 points!,65 points!,100 points!,70 points!,80 points!,80 points!,105 points!
+79,Slowpoke,WaterPsychic,315 points!,90 points!,65 points!,65 points!,40 points!,40 points!,15 points!
+80,Slowbro,WaterPsychic,490 points!,95 points!,75 points!,110 points!,100 points!,80 points!,30 points!
+80,SlowbroMega Slowbro,WaterPsychic,590 points!,95 points!,75 points!,180 points!,130 points!,80 points!,30 points!
+81,Magnemite,ElectricSteel,325 points!,25 points!,35 points!,70 points!,95 points!,55 points!,45 points!
+82,Magneton,ElectricSteel,465 points!,50 points!,60 points!,95 points!,120 points!,70 points!,70 points!
+83,Farfetch'd,NormalFlying,352 points!,52 points!,65 points!,55 points!,58 points!,62 points!,60 points!
+84,Doduo,NormalFlying,310 points!,35 points!,85 points!,45 points!,35 points!,35 points!,75 points!
+85,Dodrio,NormalFlying,460 points!,60 points!,110 points!,70 points!,60 points!,60 points!,100 points!
+86,Seel,Water,325 points!,65 points!,45 points!,55 points!,45 points!,70 points!,45 points!
+87,Dewgong,WaterIce,475 points!,90 points!,70 points!,80 points!,70 points!,95 points!,70 points!
+88,Grimer,Poison,325 points!,80 points!,80 points!,50 points!,40 points!,50 points!,25 points!
+89,Muk,Poison,500 points!,105 points!,105 points!,75 points!,65 points!,100 points!,50 points!
+90,Shellder,Water,305 points!,30 points!,65 points!,100 points!,45 points!,25 points!,40 points!
+91,Cloyster,WaterIce,525 points!,50 points!,95 points!,180 points!,85 points!,45 points!,70 points!
+92,Gastly,GhostPoison,310 points!,30 points!,35 points!,30 points!,100 points!,35 points!,80 points!
+93,Haunter,GhostPoison,405 points!,45 points!,50 points!,45 points!,115 points!,55 points!,95 points!
+94,Gengar,GhostPoison,500 points!,60 points!,65 points!,60 points!,130 points!,75 points!,110 points!
+94,GengarMega Gengar,GhostPoison,600 points!,60 points!,65 points!,80 points!,170 points!,95 points!,130 points!
+95,Onix,RockGround,385 points!,35 points!,45 points!,160 points!,30 points!,45 points!,70 points!
+96,Drowzee,Psychic,328 points!,60 points!,48 points!,45 points!,43 points!,90 points!,42 points!
+97,Hypno,Psychic,483 points!,85 points!,73 points!,70 points!,73 points!,115 points!,67 points!
+98,Krabby,Water,325 points!,30 points!,105 points!,90 points!,25 points!,25 points!,50 points!
+99,Kingler,Water,475 points!,55 points!,130 points!,115 points!,50 points!,50 points!,75 points!
+100,Voltorb,Electric,330 points!,40 points!,30 points!,50 points!,55 points!,55 points!,100 points!
+101,Electrode,Electric,480 points!,60 points!,50 points!,70 points!,80 points!,80 points!,140 points!
+102,Exeggcute,GrassPsychic,325 points!,60 points!,40 points!,80 points!,60 points!,45 points!,40 points!
+103,Exeggutor,GrassPsychic,520 points!,95 points!,95 points!,85 points!,125 points!,65 points!,55 points!
+104,Cubone,Ground,320 points!,50 points!,50 points!,95 points!,40 points!,50 points!,35 points!
+105,Marowak,Ground,425 points!,60 points!,80 points!,110 points!,50 points!,80 points!,45 points!
+106,Hitmonlee,Fighting,455 points!,50 points!,120 points!,53 points!,35 points!,110 points!,87 points!
+107,Hitmonchan,Fighting,455 points!,50 points!,105 points!,79 points!,35 points!,110 points!,76 points!
+108,Lickitung,Normal,385 points!,90 points!,55 points!,75 points!,60 points!,75 points!,30 points!
+109,Koffing,Poison,340 points!,40 points!,65 points!,95 points!,60 points!,45 points!,35 points!
+110,Weezing,Poison,490 points!,65 points!,90 points!,120 points!,85 points!,70 points!,60 points!
+111,Rhyhorn,GroundRock,345 points!,80 points!,85 points!,95 points!,30 points!,30 points!,25 points!
+112,Rhydon,GroundRock,485 points!,105 points!,130 points!,120 points!,45 points!,45 points!,40 points!
+113,Chansey,Normal,450 points!,250 points!,5 points!,5 points!,35 points!,105 points!,50 points!
+114,Tangela,Grass,435 points!,65 points!,55 points!,115 points!,100 points!,40 points!,60 points!
+115,Kangaskhan,Normal,490 points!,105 points!,95 points!,80 points!,40 points!,80 points!,90 points!
+115,KangaskhanMega Kangaskhan,Normal,590 points!,105 points!,125 points!,100 points!,60 points!,100 points!,100 points!
+116,Horsea,Water,295 points!,30 points!,40 points!,70 points!,70 points!,25 points!,60 points!
+117,Seadra,Water,440 points!,55 points!,65 points!,95 points!,95 points!,45 points!,85 points!
+118,Goldeen,Water,320 points!,45 points!,67 points!,60 points!,35 points!,50 points!,63 points!
+119,Seaking,Water,450 points!,80 points!,92 points!,65 points!,65 points!,80 points!,68 points!
+120,Staryu,Water,340 points!,30 points!,45 points!,55 points!,70 points!,55 points!,85 points!
+121,Starmie,WaterPsychic,520 points!,60 points!,75 points!,85 points!,100 points!,85 points!,115 points!
+122,Mr. Mime,PsychicFairy,460 points!,40 points!,45 points!,65 points!,100 points!,120 points!,90 points!
+123,Scyther,BugFlying,500 points!,70 points!,110 points!,80 points!,55 points!,80 points!,105 points!
+124,Jynx,IcePsychic,455 points!,65 points!,50 points!,35 points!,115 points!,95 points!,95 points!
+125,Electabuzz,Electric,490 points!,65 points!,83 points!,57 points!,95 points!,85 points!,105 points!
+126,Magmar,Fire,495 points!,65 points!,95 points!,57 points!,100 points!,85 points!,93 points!
+127,Pinsir,Bug,500 points!,65 points!,125 points!,100 points!,55 points!,70 points!,85 points!
+127,PinsirMega Pinsir,BugFlying,600 points!,65 points!,155 points!,120 points!,65 points!,90 points!,105 points!
+128,Tauros,Normal,490 points!,75 points!,100 points!,95 points!,40 points!,70 points!,110 points!
+129,Magikarp,Water,200 points!,20 points!,10 points!,55 points!,15 points!,20 points!,80 points!
+130,Gyarados,WaterFlying,540 points!,95 points!,125 points!,79 points!,60 points!,100 points!,81 points!
+130,GyaradosMega Gyarados,WaterDark,640 points!,95 points!,155 points!,109 points!,70 points!,130 points!,81 points!
+131,Lapras,WaterIce,535 points!,130 points!,85 points!,80 points!,85 points!,95 points!,60 points!
+132,Ditto,Normal,288 points!,48 points!,48 points!,48 points!,48 points!,48 points!,48 points!
+133,Eevee,Normal,325 points!,55 points!,55 points!,50 points!,45 points!,65 points!,55 points!
+134,Vaporeon,Water,525 points!,130 points!,65 points!,60 points!,110 points!,95 points!,65 points!
+135,Jolteon,Electric,525 points!,65 points!,65 points!,60 points!,110 points!,95 points!,130 points!
+136,Flareon,Fire,525 points!,65 points!,130 points!,60 points!,95 points!,110 points!,65 points!
+137,Porygon,Normal,395 points!,65 points!,60 points!,70 points!,85 points!,75 points!,40 points!
+138,Omanyte,RockWater,355 points!,35 points!,40 points!,100 points!,90 points!,55 points!,35 points!
+139,Omastar,RockWater,495 points!,70 points!,60 points!,125 points!,115 points!,70 points!,55 points!
+140,Kabuto,RockWater,355 points!,30 points!,80 points!,90 points!,55 points!,45 points!,55 points!
+141,Kabutops,RockWater,495 points!,60 points!,115 points!,105 points!,65 points!,70 points!,80 points!
+142,Aerodactyl,RockFlying,515 points!,80 points!,105 points!,65 points!,60 points!,75 points!,130 points!
+142,AerodactylMega Aerodactyl,RockFlying,615 points!,80 points!,135 points!,85 points!,70 points!,95 points!,150 points!
+143,Snorlax,Normal,540 points!,160 points!,110 points!,65 points!,65 points!,110 points!,30 points!
+144,Articuno,IceFlying,580 points!,90 points!,85 points!,100 points!,95 points!,125 points!,85 points!
+145,Zapdos,ElectricFlying,580 points!,90 points!,90 points!,85 points!,125 points!,90 points!,100 points!
+146,Moltres,FireFlying,580 points!,90 points!,100 points!,90 points!,125 points!,85 points!,90 points!
+147,Dratini,Dragon,300 points!,41 points!,64 points!,45 points!,50 points!,50 points!,50 points!
+148,Dragonair,Dragon,420 points!,61 points!,84 points!,65 points!,70 points!,70 points!,70 points!
+149,Dragonite,DragonFlying,600 points!,91 points!,134 points!,95 points!,100 points!,100 points!,80 points!
+150,Mewtwo,Psychic,680 points!,106 points!,110 points!,90 points!,154 points!,90 points!,130 points!
+150,MewtwoMega Mewtwo X,PsychicFighting,800 points!,126 points!,190 points!,100 points!,154 points!,100 points!,130 points!
+150,MewtwoMega Mewtwo Y,Psychic,780 points!,106 points!,150 points!,70 points!,194 points!,120 points!,140 points!
+151,Mew,Psychic,600 points!,100 points!,100 points!,100 points!,100 points!,100 points!,100 points!
+152,Chikorita,Grass,318 points!,45 points!,49 points!,65 points!,49 points!,65 points!,45 points!
+153,Bayleef,Grass,405 points!,60 points!,62 points!,80 points!,63 points!,80 points!,60 points!
+154,Meganium,Grass,525 points!,80 points!,82 points!,100 points!,83 points!,100 points!,80 points!
+155,Cyndaquil,Fire,309 points!,39 points!,52 points!,43 points!,60 points!,50 points!,65 points!
+156,Quilava,Fire,405 points!,58 points!,64 points!,58 points!,80 points!,65 points!,80 points!
+157,Typhlosion,Fire,534 points!,78 points!,84 points!,78 points!,109 points!,85 points!,100 points!
+158,Totodile,Water,314 points!,50 points!,65 points!,64 points!,44 points!,48 points!,43 points!
+159,Croconaw,Water,405 points!,65 points!,80 points!,80 points!,59 points!,63 points!,58 points!
+160,Feraligatr,Water,530 points!,85 points!,105 points!,100 points!,79 points!,83 points!,78 points!
+161,Sentret,Normal,215 points!,35 points!,46 points!,34 points!,35 points!,45 points!,20 points!
+162,Furret,Normal,415 points!,85 points!,76 points!,64 points!,45 points!,55 points!,90 points!
+163,Hoothoot,NormalFlying,262 points!,60 points!,30 points!,30 points!,36 points!,56 points!,50 points!
+164,Noctowl,NormalFlying,442 points!,100 points!,50 points!,50 points!,76 points!,96 points!,70 points!
+165,Ledyba,BugFlying,265 points!,40 points!,20 points!,30 points!,40 points!,80 points!,55 points!
+166,Ledian,BugFlying,390 points!,55 points!,35 points!,50 points!,55 points!,110 points!,85 points!
+167,Spinarak,BugPoison,250 points!,40 points!,60 points!,40 points!,40 points!,40 points!,30 points!
+168,Ariados,BugPoison,390 points!,70 points!,90 points!,70 points!,60 points!,60 points!,40 points!
+169,Crobat,PoisonFlying,535 points!,85 points!,90 points!,80 points!,70 points!,80 points!,130 points!
+170,Chinchou,WaterElectric,330 points!,75 points!,38 points!,38 points!,56 points!,56 points!,67 points!
+171,Lanturn,WaterElectric,460 points!,125 points!,58 points!,58 points!,76 points!,76 points!,67 points!
+172,Pichu,Electric,205 points!,20 points!,40 points!,15 points!,35 points!,35 points!,60 points!
+173,Cleffa,Fairy,218 points!,50 points!,25 points!,28 points!,45 points!,55 points!,15 points!
+174,Igglybuff,NormalFairy,210 points!,90 points!,30 points!,15 points!,40 points!,20 points!,15 points!
+175,Togepi,Fairy,245 points!,35 points!,20 points!,65 points!,40 points!,65 points!,20 points!
+176,Togetic,FairyFlying,405 points!,55 points!,40 points!,85 points!,80 points!,105 points!,40 points!
+177,Natu,PsychicFlying,320 points!,40 points!,50 points!,45 points!,70 points!,45 points!,70 points!
+178,Xatu,PsychicFlying,470 points!,65 points!,75 points!,70 points!,95 points!,70 points!,95 points!
+179,Mareep,Electric,280 points!,55 points!,40 points!,40 points!,65 points!,45 points!,35 points!
+180,Flaaffy,Electric,365 points!,70 points!,55 points!,55 points!,80 points!,60 points!,45 points!
+181,Ampharos,Electric,510 points!,90 points!,75 points!,85 points!,115 points!,90 points!,55 points!
+181,AmpharosMega Ampharos,ElectricDragon,610 points!,90 points!,95 points!,105 points!,165 points!,110 points!,45 points!
+182,Bellossom,Grass,490 points!,75 points!,80 points!,95 points!,90 points!,100 points!,50 points!
+183,Marill,WaterFairy,250 points!,70 points!,20 points!,50 points!,20 points!,50 points!,40 points!
+184,Azumarill,WaterFairy,420 points!,100 points!,50 points!,80 points!,60 points!,80 points!,50 points!
+185,Sudowoodo,Rock,410 points!,70 points!,100 points!,115 points!,30 points!,65 points!,30 points!
+186,Politoed,Water,500 points!,90 points!,75 points!,75 points!,90 points!,100 points!,70 points!
+187,Hoppip,GrassFlying,250 points!,35 points!,35 points!,40 points!,35 points!,55 points!,50 points!
+188,Skiploom,GrassFlying,340 points!,55 points!,45 points!,50 points!,45 points!,65 points!,80 points!
+189,Jumpluff,GrassFlying,460 points!,75 points!,55 points!,70 points!,55 points!,95 points!,110 points!
+190,Aipom,Normal,360 points!,55 points!,70 points!,55 points!,40 points!,55 points!,85 points!
+191,Sunkern,Grass,180 points!,30 points!,30 points!,30 points!,30 points!,30 points!,30 points!
+192,Sunflora,Grass,425 points!,75 points!,75 points!,55 points!,105 points!,85 points!,30 points!
+193,Yanma,BugFlying,390 points!,65 points!,65 points!,45 points!,75 points!,45 points!,95 points!
+194,Wooper,WaterGround,210 points!,55 points!,45 points!,45 points!,25 points!,25 points!,15 points!
+195,Quagsire,WaterGround,430 points!,95 points!,85 points!,85 points!,65 points!,65 points!,35 points!
+196,Espeon,Psychic,525 points!,65 points!,65 points!,60 points!,130 points!,95 points!,110 points!
+197,Umbreon,Dark,525 points!,95 points!,65 points!,110 points!,60 points!,130 points!,65 points!
+198,Murkrow,DarkFlying,405 points!,60 points!,85 points!,42 points!,85 points!,42 points!,91 points!
+199,Slowking,WaterPsychic,490 points!,95 points!,75 points!,80 points!,100 points!,110 points!,30 points!
+200,Misdreavus,Ghost,435 points!,60 points!,60 points!,60 points!,85 points!,85 points!,85 points!
+201,Unown,Psychic,336 points!,48 points!,72 points!,48 points!,72 points!,48 points!,48 points!
+202,Wobbuffet,Psychic,405 points!,190 points!,33 points!,58 points!,33 points!,58 points!,33 points!
+203,Girafarig,NormalPsychic,455 points!,70 points!,80 points!,65 points!,90 points!,65 points!,85 points!
+204,Pineco,Bug,290 points!,50 points!,65 points!,90 points!,35 points!,35 points!,15 points!
+205,Forretress,BugSteel,465 points!,75 points!,90 points!,140 points!,60 points!,60 points!,40 points!
+206,Dunsparce,Normal,415 points!,100 points!,70 points!,70 points!,65 points!,65 points!,45 points!
+207,Gligar,GroundFlying,430 points!,65 points!,75 points!,105 points!,35 points!,65 points!,85 points!
+208,Steelix,SteelGround,510 points!,75 points!,85 points!,200 points!,55 points!,65 points!,30 points!
+208,SteelixMega Steelix,SteelGround,610 points!,75 points!,125 points!,230 points!,55 points!,95 points!,30 points!
+209,Snubbull,Fairy,300 points!,60 points!,80 points!,50 points!,40 points!,40 points!,30 points!
+210,Granbull,Fairy,450 points!,90 points!,120 points!,75 points!,60 points!,60 points!,45 points!
+211,Qwilfish,WaterPoison,430 points!,65 points!,95 points!,75 points!,55 points!,55 points!,85 points!
+212,Scizor,BugSteel,500 points!,70 points!,130 points!,100 points!,55 points!,80 points!,65 points!
+212,ScizorMega Scizor,BugSteel,600 points!,70 points!,150 points!,140 points!,65 points!,100 points!,75 points!
+213,Shuckle,BugRock,505 points!,20 points!,10 points!,230 points!,10 points!,230 points!,5 points!
+214,Heracross,BugFighting,500 points!,80 points!,125 points!,75 points!,40 points!,95 points!,85 points!
+214,HeracrossMega Heracross,BugFighting,600 points!,80 points!,185 points!,115 points!,40 points!,105 points!,75 points!
+215,Sneasel,DarkIce,430 points!,55 points!,95 points!,55 points!,35 points!,75 points!,115 points!
+216,Teddiursa,Normal,330 points!,60 points!,80 points!,50 points!,50 points!,50 points!,40 points!
+217,Ursaring,Normal,500 points!,90 points!,130 points!,75 points!,75 points!,75 points!,55 points!
+218,Slugma,Fire,250 points!,40 points!,40 points!,40 points!,70 points!,40 points!,20 points!
+219,Magcargo,FireRock,410 points!,50 points!,50 points!,120 points!,80 points!,80 points!,30 points!
+220,Swinub,IceGround,250 points!,50 points!,50 points!,40 points!,30 points!,30 points!,50 points!
+221,Piloswine,IceGround,450 points!,100 points!,100 points!,80 points!,60 points!,60 points!,50 points!
+222,Corsola,WaterRock,380 points!,55 points!,55 points!,85 points!,65 points!,85 points!,35 points!
+223,Remoraid,Water,300 points!,35 points!,65 points!,35 points!,65 points!,35 points!,65 points!
+224,Octillery,Water,480 points!,75 points!,105 points!,75 points!,105 points!,75 points!,45 points!
+225,Delibird,IceFlying,330 points!,45 points!,55 points!,45 points!,65 points!,45 points!,75 points!
+226,Mantine,WaterFlying,465 points!,65 points!,40 points!,70 points!,80 points!,140 points!,70 points!
+227,Skarmory,SteelFlying,465 points!,65 points!,80 points!,140 points!,40 points!,70 points!,70 points!
+228,Houndour,DarkFire,330 points!,45 points!,60 points!,30 points!,80 points!,50 points!,65 points!
+229,Houndoom,DarkFire,500 points!,75 points!,90 points!,50 points!,110 points!,80 points!,95 points!
+229,HoundoomMega Houndoom,DarkFire,600 points!,75 points!,90 points!,90 points!,140 points!,90 points!,115 points!
+230,Kingdra,WaterDragon,540 points!,75 points!,95 points!,95 points!,95 points!,95 points!,85 points!
+231,Phanpy,Ground,330 points!,90 points!,60 points!,60 points!,40 points!,40 points!,40 points!
+232,Donphan,Ground,500 points!,90 points!,120 points!,120 points!,60 points!,60 points!,50 points!
+233,Porygon2,Normal,515 points!,85 points!,80 points!,90 points!,105 points!,95 points!,60 points!
+234,Stantler,Normal,465 points!,73 points!,95 points!,62 points!,85 points!,65 points!,85 points!
+235,Smeargle,Normal,250 points!,55 points!,20 points!,35 points!,20 points!,45 points!,75 points!
+236,Tyrogue,Fighting,210 points!,35 points!,35 points!,35 points!,35 points!,35 points!,35 points!
+237,Hitmontop,Fighting,455 points!,50 points!,95 points!,95 points!,35 points!,110 points!,70 points!
+238,Smoochum,IcePsychic,305 points!,45 points!,30 points!,15 points!,85 points!,65 points!,65 points!
+239,Elekid,Electric,360 points!,45 points!,63 points!,37 points!,65 points!,55 points!,95 points!
+240,Magby,Fire,365 points!,45 points!,75 points!,37 points!,70 points!,55 points!,83 points!
+241,Miltank,Normal,490 points!,95 points!,80 points!,105 points!,40 points!,70 points!,100 points!
+242,Blissey,Normal,540 points!,255 points!,10 points!,10 points!,75 points!,135 points!,55 points!
+243,Raikou,Electric,580 points!,90 points!,85 points!,75 points!,115 points!,100 points!,115 points!
+244,Entei,Fire,580 points!,115 points!,115 points!,85 points!,90 points!,75 points!,100 points!
+245,Suicune,Water,580 points!,100 points!,75 points!,115 points!,90 points!,115 points!,85 points!
+246,Larvitar,RockGround,300 points!,50 points!,64 points!,50 points!,45 points!,50 points!,41 points!
+247,Pupitar,RockGround,410 points!,70 points!,84 points!,70 points!,65 points!,70 points!,51 points!
+248,Tyranitar,RockDark,600 points!,100 points!,134 points!,110 points!,95 points!,100 points!,61 points!
+248,TyranitarMega Tyranitar,RockDark,700 points!,100 points!,164 points!,150 points!,95 points!,120 points!,71 points!
+249,Lugia,PsychicFlying,680 points!,106 points!,90 points!,130 points!,90 points!,154 points!,110 points!
+250,Ho-oh,FireFlying,680 points!,106 points!,130 points!,90 points!,110 points!,154 points!,90 points!
+251,Celebi,PsychicGrass,600 points!,100 points!,100 points!,100 points!,100 points!,100 points!,100 points!
+252,Treecko,Grass,310 points!,40 points!,45 points!,35 points!,65 points!,55 points!,70 points!
+253,Grovyle,Grass,405 points!,50 points!,65 points!,45 points!,85 points!,65 points!,95 points!
+254,Sceptile,Grass,530 points!,70 points!,85 points!,65 points!,105 points!,85 points!,120 points!
+254,SceptileMega Sceptile,GrassDragon,630 points!,70 points!,110 points!,75 points!,145 points!,85 points!,145 points!
+255,Torchic,Fire,310 points!,45 points!,60 points!,40 points!,70 points!,50 points!,45 points!
+256,Combusken,FireFighting,405 points!,60 points!,85 points!,60 points!,85 points!,60 points!,55 points!
+257,Blaziken,FireFighting,530 points!,80 points!,120 points!,70 points!,110 points!,70 points!,80 points!
+257,BlazikenMega Blaziken,FireFighting,630 points!,80 points!,160 points!,80 points!,130 points!,80 points!,100 points!
+258,Mudkip,Water,310 points!,50 points!,70 points!,50 points!,50 points!,50 points!,40 points!
+259,Marshtomp,WaterGround,405 points!,70 points!,85 points!,70 points!,60 points!,70 points!,50 points!
+260,Swampert,WaterGround,535 points!,100 points!,110 points!,90 points!,85 points!,90 points!,60 points!
+260,SwampertMega Swampert,WaterGround,635 points!,100 points!,150 points!,110 points!,95 points!,110 points!,70 points!
+261,Poochyena,Dark,220 points!,35 points!,55 points!,35 points!,30 points!,30 points!,35 points!
+262,Mightyena,Dark,420 points!,70 points!,90 points!,70 points!,60 points!,60 points!,70 points!
+263,Zigzagoon,Normal,240 points!,38 points!,30 points!,41 points!,30 points!,41 points!,60 points!
+264,Linoone,Normal,420 points!,78 points!,70 points!,61 points!,50 points!,61 points!,100 points!
+265,Wurmple,Bug,195 points!,45 points!,45 points!,35 points!,20 points!,30 points!,20 points!
+266,Silcoon,Bug,205 points!,50 points!,35 points!,55 points!,25 points!,25 points!,15 points!
+267,Beautifly,BugFlying,395 points!,60 points!,70 points!,50 points!,100 points!,50 points!,65 points!
+268,Cascoon,Bug,205 points!,50 points!,35 points!,55 points!,25 points!,25 points!,15 points!
+269,Dustox,BugPoison,385 points!,60 points!,50 points!,70 points!,50 points!,90 points!,65 points!
+270,Lotad,WaterGrass,220 points!,40 points!,30 points!,30 points!,40 points!,50 points!,30 points!
+271,Lombre,WaterGrass,340 points!,60 points!,50 points!,50 points!,60 points!,70 points!,50 points!
+272,Ludicolo,WaterGrass,480 points!,80 points!,70 points!,70 points!,90 points!,100 points!,70 points!
+273,Seedot,Grass,220 points!,40 points!,40 points!,50 points!,30 points!,30 points!,30 points!
+274,Nuzleaf,GrassDark,340 points!,70 points!,70 points!,40 points!,60 points!,40 points!,60 points!
+275,Shiftry,GrassDark,480 points!,90 points!,100 points!,60 points!,90 points!,60 points!,80 points!
+276,Taillow,NormalFlying,270 points!,40 points!,55 points!,30 points!,30 points!,30 points!,85 points!
+277,Swellow,NormalFlying,430 points!,60 points!,85 points!,60 points!,50 points!,50 points!,125 points!
+278,Wingull,WaterFlying,270 points!,40 points!,30 points!,30 points!,55 points!,30 points!,85 points!
+279,Pelipper,WaterFlying,430 points!,60 points!,50 points!,100 points!,85 points!,70 points!,65 points!
+280,Ralts,PsychicFairy,198 points!,28 points!,25 points!,25 points!,45 points!,35 points!,40 points!
+281,Kirlia,PsychicFairy,278 points!,38 points!,35 points!,35 points!,65 points!,55 points!,50 points!
+282,Gardevoir,PsychicFairy,518 points!,68 points!,65 points!,65 points!,125 points!,115 points!,80 points!
+282,GardevoirMega Gardevoir,PsychicFairy,618 points!,68 points!,85 points!,65 points!,165 points!,135 points!,100 points!
+283,Surskit,BugWater,269 points!,40 points!,30 points!,32 points!,50 points!,52 points!,65 points!
+284,Masquerain,BugFlying,414 points!,70 points!,60 points!,62 points!,80 points!,82 points!,60 points!
+285,Shroomish,Grass,295 points!,60 points!,40 points!,60 points!,40 points!,60 points!,35 points!
+286,Breloom,GrassFighting,460 points!,60 points!,130 points!,80 points!,60 points!,60 points!,70 points!
+287,Slakoth,Normal,280 points!,60 points!,60 points!,60 points!,35 points!,35 points!,30 points!
+288,Vigoroth,Normal,440 points!,80 points!,80 points!,80 points!,55 points!,55 points!,90 points!
+289,Slaking,Normal,670 points!,150 points!,160 points!,100 points!,95 points!,65 points!,100 points!
+290,Nincada,BugGround,266 points!,31 points!,45 points!,90 points!,30 points!,30 points!,40 points!
+291,Ninjask,BugFlying,456 points!,61 points!,90 points!,45 points!,50 points!,50 points!,160 points!
+292,Shedinja,BugGhost,236 points!,1 points!,90 points!,45 points!,30 points!,30 points!,40 points!
+293,Whismur,Normal,240 points!,64 points!,51 points!,23 points!,51 points!,23 points!,28 points!
+294,Loudred,Normal,360 points!,84 points!,71 points!,43 points!,71 points!,43 points!,48 points!
+295,Exploud,Normal,490 points!,104 points!,91 points!,63 points!,91 points!,73 points!,68 points!
+296,Makuhita,Fighting,237 points!,72 points!,60 points!,30 points!,20 points!,30 points!,25 points!
+297,Hariyama,Fighting,474 points!,144 points!,120 points!,60 points!,40 points!,60 points!,50 points!
+298,Azurill,NormalFairy,190 points!,50 points!,20 points!,40 points!,20 points!,40 points!,20 points!
+299,Nosepass,Rock,375 points!,30 points!,45 points!,135 points!,45 points!,90 points!,30 points!
+300,Skitty,Normal,260 points!,50 points!,45 points!,45 points!,35 points!,35 points!,50 points!
+301,Delcatty,Normal,380 points!,70 points!,65 points!,65 points!,55 points!,55 points!,70 points!
+302,Sableye,DarkGhost,380 points!,50 points!,75 points!,75 points!,65 points!,65 points!,50 points!
+302,SableyeMega Sableye,DarkGhost,480 points!,50 points!,85 points!,125 points!,85 points!,115 points!,20 points!
+303,Mawile,SteelFairy,380 points!,50 points!,85 points!,85 points!,55 points!,55 points!,50 points!
+303,MawileMega Mawile,SteelFairy,480 points!,50 points!,105 points!,125 points!,55 points!,95 points!,50 points!
+304,Aron,SteelRock,330 points!,50 points!,70 points!,100 points!,40 points!,40 points!,30 points!
+305,Lairon,SteelRock,430 points!,60 points!,90 points!,140 points!,50 points!,50 points!,40 points!
+306,Aggron,SteelRock,530 points!,70 points!,110 points!,180 points!,60 points!,60 points!,50 points!
+306,AggronMega Aggron,Steel,630 points!,70 points!,140 points!,230 points!,60 points!,80 points!,50 points!
+307,Meditite,FightingPsychic,280 points!,30 points!,40 points!,55 points!,40 points!,55 points!,60 points!
+308,Medicham,FightingPsychic,410 points!,60 points!,60 points!,75 points!,60 points!,75 points!,80 points!
+308,MedichamMega Medicham,FightingPsychic,510 points!,60 points!,100 points!,85 points!,80 points!,85 points!,100 points!
+309,Electrike,Electric,295 points!,40 points!,45 points!,40 points!,65 points!,40 points!,65 points!
+310,Manectric,Electric,475 points!,70 points!,75 points!,60 points!,105 points!,60 points!,105 points!
+310,ManectricMega Manectric,Electric,575 points!,70 points!,75 points!,80 points!,135 points!,80 points!,135 points!
+311,Plusle,Electric,405 points!,60 points!,50 points!,40 points!,85 points!,75 points!,95 points!
+312,Minun,Electric,405 points!,60 points!,40 points!,50 points!,75 points!,85 points!,95 points!
+313,Volbeat,Bug,400 points!,65 points!,73 points!,55 points!,47 points!,75 points!,85 points!
+314,Illumise,Bug,400 points!,65 points!,47 points!,55 points!,73 points!,75 points!,85 points!
+315,Roselia,GrassPoison,400 points!,50 points!,60 points!,45 points!,100 points!,80 points!,65 points!
+316,Gulpin,Poison,302 points!,70 points!,43 points!,53 points!,43 points!,53 points!,40 points!
+317,Swalot,Poison,467 points!,100 points!,73 points!,83 points!,73 points!,83 points!,55 points!
+318,Carvanha,WaterDark,305 points!,45 points!,90 points!,20 points!,65 points!,20 points!,65 points!
+319,Sharpedo,WaterDark,460 points!,70 points!,120 points!,40 points!,95 points!,40 points!,95 points!
+319,SharpedoMega Sharpedo,WaterDark,560 points!,70 points!,140 points!,70 points!,110 points!,65 points!,105 points!
+320,Wailmer,Water,400 points!,130 points!,70 points!,35 points!,70 points!,35 points!,60 points!
+321,Wailord,Water,500 points!,170 points!,90 points!,45 points!,90 points!,45 points!,60 points!
+322,Numel,FireGround,305 points!,60 points!,60 points!,40 points!,65 points!,45 points!,35 points!
+323,Camerupt,FireGround,460 points!,70 points!,100 points!,70 points!,105 points!,75 points!,40 points!
+323,CameruptMega Camerupt,FireGround,560 points!,70 points!,120 points!,100 points!,145 points!,105 points!,20 points!
+324,Torkoal,Fire,470 points!,70 points!,85 points!,140 points!,85 points!,70 points!,20 points!
+325,Spoink,Psychic,330 points!,60 points!,25 points!,35 points!,70 points!,80 points!,60 points!
+326,Grumpig,Psychic,470 points!,80 points!,45 points!,65 points!,90 points!,110 points!,80 points!
+327,Spinda,Normal,360 points!,60 points!,60 points!,60 points!,60 points!,60 points!,60 points!
+328,Trapinch,Ground,290 points!,45 points!,100 points!,45 points!,45 points!,45 points!,10 points!
+329,Vibrava,GroundDragon,340 points!,50 points!,70 points!,50 points!,50 points!,50 points!,70 points!
+330,Flygon,GroundDragon,520 points!,80 points!,100 points!,80 points!,80 points!,80 points!,100 points!
+331,Cacnea,Grass,335 points!,50 points!,85 points!,40 points!,85 points!,40 points!,35 points!
+332,Cacturne,GrassDark,475 points!,70 points!,115 points!,60 points!,115 points!,60 points!,55 points!
+333,Swablu,NormalFlying,310 points!,45 points!,40 points!,60 points!,40 points!,75 points!,50 points!
+334,Altaria,DragonFlying,490 points!,75 points!,70 points!,90 points!,70 points!,105 points!,80 points!
+334,AltariaMega Altaria,DragonFairy,590 points!,75 points!,110 points!,110 points!,110 points!,105 points!,80 points!
+335,Zangoose,Normal,458 points!,73 points!,115 points!,60 points!,60 points!,60 points!,90 points!
+336,Seviper,Poison,458 points!,73 points!,100 points!,60 points!,100 points!,60 points!,65 points!
+337,Lunatone,RockPsychic,440 points!,70 points!,55 points!,65 points!,95 points!,85 points!,70 points!
+338,Solrock,RockPsychic,440 points!,70 points!,95 points!,85 points!,55 points!,65 points!,70 points!
+339,Barboach,WaterGround,288 points!,50 points!,48 points!,43 points!,46 points!,41 points!,60 points!
+340,Whiscash,WaterGround,468 points!,110 points!,78 points!,73 points!,76 points!,71 points!,60 points!
+341,Corphish,Water,308 points!,43 points!,80 points!,65 points!,50 points!,35 points!,35 points!
+342,Crawdaunt,WaterDark,468 points!,63 points!,120 points!,85 points!,90 points!,55 points!,55 points!
+343,Baltoy,GroundPsychic,300 points!,40 points!,40 points!,55 points!,40 points!,70 points!,55 points!
+344,Claydol,GroundPsychic,500 points!,60 points!,70 points!,105 points!,70 points!,120 points!,75 points!
+345,Lileep,RockGrass,355 points!,66 points!,41 points!,77 points!,61 points!,87 points!,23 points!
+346,Cradily,RockGrass,495 points!,86 points!,81 points!,97 points!,81 points!,107 points!,43 points!
+347,Anorith,RockBug,355 points!,45 points!,95 points!,50 points!,40 points!,50 points!,75 points!
+348,Armaldo,RockBug,495 points!,75 points!,125 points!,100 points!,70 points!,80 points!,45 points!
+349,Feebas,Water,200 points!,20 points!,15 points!,20 points!,10 points!,55 points!,80 points!
+350,Milotic,Water,540 points!,95 points!,60 points!,79 points!,100 points!,125 points!,81 points!
+351,Castform,Normal,420 points!,70 points!,70 points!,70 points!,70 points!,70 points!,70 points!
+352,Kecleon,Normal,440 points!,60 points!,90 points!,70 points!,60 points!,120 points!,40 points!
+353,Shuppet,Ghost,295 points!,44 points!,75 points!,35 points!,63 points!,33 points!,45 points!
+354,Banette,Ghost,455 points!,64 points!,115 points!,65 points!,83 points!,63 points!,65 points!
+354,BanetteMega Banette,Ghost,555 points!,64 points!,165 points!,75 points!,93 points!,83 points!,75 points!
+355,Duskull,Ghost,295 points!,20 points!,40 points!,90 points!,30 points!,90 points!,25 points!
+356,Dusclops,Ghost,455 points!,40 points!,70 points!,130 points!,60 points!,130 points!,25 points!
+357,Tropius,GrassFlying,460 points!,99 points!,68 points!,83 points!,72 points!,87 points!,51 points!
+358,Chimecho,Psychic,425 points!,65 points!,50 points!,70 points!,95 points!,80 points!,65 points!
+359,Absol,Dark,465 points!,65 points!,130 points!,60 points!,75 points!,60 points!,75 points!
+359,AbsolMega Absol,Dark,565 points!,65 points!,150 points!,60 points!,115 points!,60 points!,115 points!
+360,Wynaut,Psychic,260 points!,95 points!,23 points!,48 points!,23 points!,48 points!,23 points!
+361,Snorunt,Ice,300 points!,50 points!,50 points!,50 points!,50 points!,50 points!,50 points!
+362,Glalie,Ice,480 points!,80 points!,80 points!,80 points!,80 points!,80 points!,80 points!
+362,GlalieMega Glalie,Ice,580 points!,80 points!,120 points!,80 points!,120 points!,80 points!,100 points!
+363,Spheal,IceWater,290 points!,70 points!,40 points!,50 points!,55 points!,50 points!,25 points!
+364,Sealeo,IceWater,410 points!,90 points!,60 points!,70 points!,75 points!,70 points!,45 points!
+365,Walrein,IceWater,530 points!,110 points!,80 points!,90 points!,95 points!,90 points!,65 points!
+366,Clamperl,Water,345 points!,35 points!,64 points!,85 points!,74 points!,55 points!,32 points!
+367,Huntail,Water,485 points!,55 points!,104 points!,105 points!,94 points!,75 points!,52 points!
+368,Gorebyss,Water,485 points!,55 points!,84 points!,105 points!,114 points!,75 points!,52 points!
+369,Relicanth,WaterRock,485 points!,100 points!,90 points!,130 points!,45 points!,65 points!,55 points!
+370,Luvdisc,Water,330 points!,43 points!,30 points!,55 points!,40 points!,65 points!,97 points!
+371,Bagon,Dragon,300 points!,45 points!,75 points!,60 points!,40 points!,30 points!,50 points!
+372,Shelgon,Dragon,420 points!,65 points!,95 points!,100 points!,60 points!,50 points!,50 points!
+373,Salamence,DragonFlying,600 points!,95 points!,135 points!,80 points!,110 points!,80 points!,100 points!
+373,SalamenceMega Salamence,DragonFlying,700 points!,95 points!,145 points!,130 points!,120 points!,90 points!,120 points!
+374,Beldum,SteelPsychic,300 points!,40 points!,55 points!,80 points!,35 points!,60 points!,30 points!
+375,Metang,SteelPsychic,420 points!,60 points!,75 points!,100 points!,55 points!,80 points!,50 points!
+376,Metagross,SteelPsychic,600 points!,80 points!,135 points!,130 points!,95 points!,90 points!,70 points!
+376,MetagrossMega Metagross,SteelPsychic,700 points!,80 points!,145 points!,150 points!,105 points!,110 points!,110 points!
+377,Regirock,Rock,580 points!,80 points!,100 points!,200 points!,50 points!,100 points!,50 points!
+378,Regice,Ice,580 points!,80 points!,50 points!,100 points!,100 points!,200 points!,50 points!
+379,Registeel,Steel,580 points!,80 points!,75 points!,150 points!,75 points!,150 points!,50 points!
+380,Latias,DragonPsychic,600 points!,80 points!,80 points!,90 points!,110 points!,130 points!,110 points!
+380,LatiasMega Latias,DragonPsychic,700 points!,80 points!,100 points!,120 points!,140 points!,150 points!,110 points!
+381,Latios,DragonPsychic,600 points!,80 points!,90 points!,80 points!,130 points!,110 points!,110 points!
+381,LatiosMega Latios,DragonPsychic,700 points!,80 points!,130 points!,100 points!,160 points!,120 points!,110 points!
+382,Kyogre,Water,670 points!,100 points!,100 points!,90 points!,150 points!,140 points!,90 points!
+382,KyogrePrimal Kyogre,Water,770 points!,100 points!,150 points!,90 points!,180 points!,160 points!,90 points!
+383,Groudon,Ground,670 points!,100 points!,150 points!,140 points!,100 points!,90 points!,90 points!
+383,GroudonPrimal Groudon,GroundFire,770 points!,100 points!,180 points!,160 points!,150 points!,90 points!,90 points!
+384,Rayquaza,DragonFlying,680 points!,105 points!,150 points!,90 points!,150 points!,90 points!,95 points!
+384,RayquazaMega Rayquaza,DragonFlying,780 points!,105 points!,180 points!,100 points!,180 points!,100 points!,115 points!
+385,Jirachi,SteelPsychic,600 points!,100 points!,100 points!,100 points!,100 points!,100 points!,100 points!
+386,DeoxysNormal Forme,Psychic,600 points!,50 points!,150 points!,50 points!,150 points!,50 points!,150 points!
+386,DeoxysAttack Forme,Psychic,600 points!,50 points!,180 points!,20 points!,180 points!,20 points!,150 points!
+386,DeoxysDefense Forme,Psychic,600 points!,50 points!,70 points!,160 points!,70 points!,160 points!,90 points!
+386,DeoxysSpeed Forme,Psychic,600 points!,50 points!,95 points!,90 points!,95 points!,90 points!,180 points!
+387,Turtwig,Grass,318 points!,55 points!,68 points!,64 points!,45 points!,55 points!,31 points!
+388,Grotle,Grass,405 points!,75 points!,89 points!,85 points!,55 points!,65 points!,36 points!
+389,Torterra,GrassGround,525 points!,95 points!,109 points!,105 points!,75 points!,85 points!,56 points!
+390,Chimchar,Fire,309 points!,44 points!,58 points!,44 points!,58 points!,44 points!,61 points!
+391,Monferno,FireFighting,405 points!,64 points!,78 points!,52 points!,78 points!,52 points!,81 points!
+392,Infernape,FireFighting,534 points!,76 points!,104 points!,71 points!,104 points!,71 points!,108 points!
+393,Piplup,Water,314 points!,53 points!,51 points!,53 points!,61 points!,56 points!,40 points!
+394,Prinplup,Water,405 points!,64 points!,66 points!,68 points!,81 points!,76 points!,50 points!
+395,Empoleon,WaterSteel,530 points!,84 points!,86 points!,88 points!,111 points!,101 points!,60 points!
+396,Starly,NormalFlying,245 points!,40 points!,55 points!,30 points!,30 points!,30 points!,60 points!
+397,Staravia,NormalFlying,340 points!,55 points!,75 points!,50 points!,40 points!,40 points!,80 points!
+398,Staraptor,NormalFlying,485 points!,85 points!,120 points!,70 points!,50 points!,60 points!,100 points!
+399,Bidoof,Normal,250 points!,59 points!,45 points!,40 points!,35 points!,40 points!,31 points!
+400,Bibarel,NormalWater,410 points!,79 points!,85 points!,60 points!,55 points!,60 points!,71 points!
+401,Kricketot,Bug,194 points!,37 points!,25 points!,41 points!,25 points!,41 points!,25 points!
+402,Kricketune,Bug,384 points!,77 points!,85 points!,51 points!,55 points!,51 points!,65 points!
+403,Shinx,Electric,263 points!,45 points!,65 points!,34 points!,40 points!,34 points!,45 points!
+404,Luxio,Electric,363 points!,60 points!,85 points!,49 points!,60 points!,49 points!,60 points!
+405,Luxray,Electric,523 points!,80 points!,120 points!,79 points!,95 points!,79 points!,70 points!
+406,Budew,GrassPoison,280 points!,40 points!,30 points!,35 points!,50 points!,70 points!,55 points!
+407,Roserade,GrassPoison,515 points!,60 points!,70 points!,65 points!,125 points!,105 points!,90 points!
+408,Cranidos,Rock,350 points!,67 points!,125 points!,40 points!,30 points!,30 points!,58 points!
+409,Rampardos,Rock,495 points!,97 points!,165 points!,60 points!,65 points!,50 points!,58 points!
+410,Shieldon,RockSteel,350 points!,30 points!,42 points!,118 points!,42 points!,88 points!,30 points!
+411,Bastiodon,RockSteel,495 points!,60 points!,52 points!,168 points!,47 points!,138 points!,30 points!
+412,Burmy,Bug,224 points!,40 points!,29 points!,45 points!,29 points!,45 points!,36 points!
+413,WormadamPlant Cloak,BugGrass,424 points!,60 points!,59 points!,85 points!,79 points!,105 points!,36 points!
+413,WormadamSandy Cloak,BugGround,424 points!,60 points!,79 points!,105 points!,59 points!,85 points!,36 points!
+413,WormadamTrash Cloak,BugSteel,424 points!,60 points!,69 points!,95 points!,69 points!,95 points!,36 points!
+414,Mothim,BugFlying,424 points!,70 points!,94 points!,50 points!,94 points!,50 points!,66 points!
+415,Combee,BugFlying,244 points!,30 points!,30 points!,42 points!,30 points!,42 points!,70 points!
+416,Vespiquen,BugFlying,474 points!,70 points!,80 points!,102 points!,80 points!,102 points!,40 points!
+417,Pachirisu,Electric,405 points!,60 points!,45 points!,70 points!,45 points!,90 points!,95 points!
+418,Buizel,Water,330 points!,55 points!,65 points!,35 points!,60 points!,30 points!,85 points!
+419,Floatzel,Water,495 points!,85 points!,105 points!,55 points!,85 points!,50 points!,115 points!
+420,Cherubi,Grass,275 points!,45 points!,35 points!,45 points!,62 points!,53 points!,35 points!
+421,Cherrim,Grass,450 points!,70 points!,60 points!,70 points!,87 points!,78 points!,85 points!
+422,Shellos,Water,325 points!,76 points!,48 points!,48 points!,57 points!,62 points!,34 points!
+423,Gastrodon,WaterGround,475 points!,111 points!,83 points!,68 points!,92 points!,82 points!,39 points!
+424,Ambipom,Normal,482 points!,75 points!,100 points!,66 points!,60 points!,66 points!,115 points!
+425,Drifloon,GhostFlying,348 points!,90 points!,50 points!,34 points!,60 points!,44 points!,70 points!
+426,Drifblim,GhostFlying,498 points!,150 points!,80 points!,44 points!,90 points!,54 points!,80 points!
+427,Buneary,Normal,350 points!,55 points!,66 points!,44 points!,44 points!,56 points!,85 points!
+428,Lopunny,Normal,480 points!,65 points!,76 points!,84 points!,54 points!,96 points!,105 points!
+428,LopunnyMega Lopunny,NormalFighting,580 points!,65 points!,136 points!,94 points!,54 points!,96 points!,135 points!
+429,Mismagius,Ghost,495 points!,60 points!,60 points!,60 points!,105 points!,105 points!,105 points!
+430,Honchkrow,DarkFlying,505 points!,100 points!,125 points!,52 points!,105 points!,52 points!,71 points!
+431,Glameow,Normal,310 points!,49 points!,55 points!,42 points!,42 points!,37 points!,85 points!
+432,Purugly,Normal,452 points!,71 points!,82 points!,64 points!,64 points!,59 points!,112 points!
+433,Chingling,Psychic,285 points!,45 points!,30 points!,50 points!,65 points!,50 points!,45 points!
+434,Stunky,PoisonDark,329 points!,63 points!,63 points!,47 points!,41 points!,41 points!,74 points!
+435,Skuntank,PoisonDark,479 points!,103 points!,93 points!,67 points!,71 points!,61 points!,84 points!
+436,Bronzor,SteelPsychic,300 points!,57 points!,24 points!,86 points!,24 points!,86 points!,23 points!
+437,Bronzong,SteelPsychic,500 points!,67 points!,89 points!,116 points!,79 points!,116 points!,33 points!
+438,Bonsly,Rock,290 points!,50 points!,80 points!,95 points!,10 points!,45 points!,10 points!
+439,Mime Jr.,PsychicFairy,310 points!,20 points!,25 points!,45 points!,70 points!,90 points!,60 points!
+440,Happiny,Normal,220 points!,100 points!,5 points!,5 points!,15 points!,65 points!,30 points!
+441,Chatot,NormalFlying,411 points!,76 points!,65 points!,45 points!,92 points!,42 points!,91 points!
+442,Spiritomb,GhostDark,485 points!,50 points!,92 points!,108 points!,92 points!,108 points!,35 points!
+443,Gible,DragonGround,300 points!,58 points!,70 points!,45 points!,40 points!,45 points!,42 points!
+444,Gabite,DragonGround,410 points!,68 points!,90 points!,65 points!,50 points!,55 points!,82 points!
+445,Garchomp,DragonGround,600 points!,108 points!,130 points!,95 points!,80 points!,85 points!,102 points!
+445,GarchompMega Garchomp,DragonGround,700 points!,108 points!,170 points!,115 points!,120 points!,95 points!,92 points!
+446,Munchlax,Normal,390 points!,135 points!,85 points!,40 points!,40 points!,85 points!,5 points!
+447,Riolu,Fighting,285 points!,40 points!,70 points!,40 points!,35 points!,40 points!,60 points!
+448,Lucario,FightingSteel,525 points!,70 points!,110 points!,70 points!,115 points!,70 points!,90 points!
+448,LucarioMega Lucario,FightingSteel,625 points!,70 points!,145 points!,88 points!,140 points!,70 points!,112 points!
+449,Hippopotas,Ground,330 points!,68 points!,72 points!,78 points!,38 points!,42 points!,32 points!
+450,Hippowdon,Ground,525 points!,108 points!,112 points!,118 points!,68 points!,72 points!,47 points!
+451,Skorupi,PoisonBug,330 points!,40 points!,50 points!,90 points!,30 points!,55 points!,65 points!
+452,Drapion,PoisonDark,500 points!,70 points!,90 points!,110 points!,60 points!,75 points!,95 points!
+453,Croagunk,PoisonFighting,300 points!,48 points!,61 points!,40 points!,61 points!,40 points!,50 points!
+454,Toxicroak,PoisonFighting,490 points!,83 points!,106 points!,65 points!,86 points!,65 points!,85 points!
+455,Carnivine,Grass,454 points!,74 points!,100 points!,72 points!,90 points!,72 points!,46 points!
+456,Finneon,Water,330 points!,49 points!,49 points!,56 points!,49 points!,61 points!,66 points!
+457,Lumineon,Water,460 points!,69 points!,69 points!,76 points!,69 points!,86 points!,91 points!
+458,Mantyke,WaterFlying,345 points!,45 points!,20 points!,50 points!,60 points!,120 points!,50 points!
+459,Snover,GrassIce,334 points!,60 points!,62 points!,50 points!,62 points!,60 points!,40 points!
+460,Abomasnow,GrassIce,494 points!,90 points!,92 points!,75 points!,92 points!,85 points!,60 points!
+460,AbomasnowMega Abomasnow,GrassIce,594 points!,90 points!,132 points!,105 points!,132 points!,105 points!,30 points!
+461,Weavile,DarkIce,510 points!,70 points!,120 points!,65 points!,45 points!,85 points!,125 points!
+462,Magnezone,ElectricSteel,535 points!,70 points!,70 points!,115 points!,130 points!,90 points!,60 points!
+463,Lickilicky,Normal,515 points!,110 points!,85 points!,95 points!,80 points!,95 points!,50 points!
+464,Rhyperior,GroundRock,535 points!,115 points!,140 points!,130 points!,55 points!,55 points!,40 points!
+465,Tangrowth,Grass,535 points!,100 points!,100 points!,125 points!,110 points!,50 points!,50 points!
+466,Electivire,Electric,540 points!,75 points!,123 points!,67 points!,95 points!,85 points!,95 points!
+467,Magmortar,Fire,540 points!,75 points!,95 points!,67 points!,125 points!,95 points!,83 points!
+468,Togekiss,FairyFlying,545 points!,85 points!,50 points!,95 points!,120 points!,115 points!,80 points!
+469,Yanmega,BugFlying,515 points!,86 points!,76 points!,86 points!,116 points!,56 points!,95 points!
+470,Leafeon,Grass,525 points!,65 points!,110 points!,130 points!,60 points!,65 points!,95 points!
+471,Glaceon,Ice,525 points!,65 points!,60 points!,110 points!,130 points!,95 points!,65 points!
+472,Gliscor,GroundFlying,510 points!,75 points!,95 points!,125 points!,45 points!,75 points!,95 points!
+473,Mamoswine,IceGround,530 points!,110 points!,130 points!,80 points!,70 points!,60 points!,80 points!
+474,Porygon-Z,Normal,535 points!,85 points!,80 points!,70 points!,135 points!,75 points!,90 points!
+475,Gallade,PsychicFighting,518 points!,68 points!,125 points!,65 points!,65 points!,115 points!,80 points!
+475,GalladeMega Gallade,PsychicFighting,618 points!,68 points!,165 points!,95 points!,65 points!,115 points!,110 points!
+476,Probopass,RockSteel,525 points!,60 points!,55 points!,145 points!,75 points!,150 points!,40 points!
+477,Dusknoir,Ghost,525 points!,45 points!,100 points!,135 points!,65 points!,135 points!,45 points!
+478,Froslass,IceGhost,480 points!,70 points!,80 points!,70 points!,80 points!,70 points!,110 points!
+479,Rotom,ElectricGhost,440 points!,50 points!,50 points!,77 points!,95 points!,77 points!,91 points!
+479,RotomHeat Rotom,ElectricFire,520 points!,50 points!,65 points!,107 points!,105 points!,107 points!,86 points!
+479,RotomWash Rotom,ElectricWater,520 points!,50 points!,65 points!,107 points!,105 points!,107 points!,86 points!
+479,RotomFrost Rotom,ElectricIce,520 points!,50 points!,65 points!,107 points!,105 points!,107 points!,86 points!
+479,RotomFan Rotom,ElectricFlying,520 points!,50 points!,65 points!,107 points!,105 points!,107 points!,86 points!
+479,RotomMow Rotom,ElectricGrass,520 points!,50 points!,65 points!,107 points!,105 points!,107 points!,86 points!
+480,Uxie,Psychic,580 points!,75 points!,75 points!,130 points!,75 points!,130 points!,95 points!
+481,Mesprit,Psychic,580 points!,80 points!,105 points!,105 points!,105 points!,105 points!,80 points!
+482,Azelf,Psychic,580 points!,75 points!,125 points!,70 points!,125 points!,70 points!,115 points!
+483,Dialga,SteelDragon,680 points!,100 points!,120 points!,120 points!,150 points!,100 points!,90 points!
+484,Palkia,WaterDragon,680 points!,90 points!,120 points!,100 points!,150 points!,120 points!,100 points!
+485,Heatran,FireSteel,600 points!,91 points!,90 points!,106 points!,130 points!,106 points!,77 points!
+486,Regigigas,Normal,670 points!,110 points!,160 points!,110 points!,80 points!,110 points!,100 points!
+487,GiratinaAltered Forme,GhostDragon,680 points!,150 points!,100 points!,120 points!,100 points!,120 points!,90 points!
+487,GiratinaOrigin Forme,GhostDragon,680 points!,150 points!,120 points!,100 points!,120 points!,100 points!,90 points!
+488,Cresselia,Psychic,600 points!,120 points!,70 points!,120 points!,75 points!,130 points!,85 points!
+489,Phione,Water,480 points!,80 points!,80 points!,80 points!,80 points!,80 points!,80 points!
+490,Manaphy,Water,600 points!,100 points!,100 points!,100 points!,100 points!,100 points!,100 points!
+491,Darkrai,Dark,600 points!,70 points!,90 points!,90 points!,135 points!,90 points!,125 points!
+492,ShayminLand Forme,Grass,600 points!,100 points!,100 points!,100 points!,100 points!,100 points!,100 points!
+492,ShayminSky Forme,GrassFlying,600 points!,100 points!,103 points!,75 points!,120 points!,75 points!,127 points!
+493,Arceus,Normal,720 points!,120 points!,120 points!,120 points!,120 points!,120 points!,120 points!
+494,Victini,PsychicFire,600 points!,100 points!,100 points!,100 points!,100 points!,100 points!,100 points!
+495,Snivy,Grass,308 points!,45 points!,45 points!,55 points!,45 points!,55 points!,63 points!
+496,Servine,Grass,413 points!,60 points!,60 points!,75 points!,60 points!,75 points!,83 points!
+497,Serperior,Grass,528 points!,75 points!,75 points!,95 points!,75 points!,95 points!,113 points!
+498,Tepig,Fire,308 points!,65 points!,63 points!,45 points!,45 points!,45 points!,45 points!
+499,Pignite,FireFighting,418 points!,90 points!,93 points!,55 points!,70 points!,55 points!,55 points!
+500,Emboar,FireFighting,528 points!,110 points!,123 points!,65 points!,100 points!,65 points!,65 points!
+501,Oshawott,Water,308 points!,55 points!,55 points!,45 points!,63 points!,45 points!,45 points!
+502,Dewott,Water,413 points!,75 points!,75 points!,60 points!,83 points!,60 points!,60 points!
+503,Samurott,Water,528 points!,95 points!,100 points!,85 points!,108 points!,70 points!,70 points!
+504,Patrat,Normal,255 points!,45 points!,55 points!,39 points!,35 points!,39 points!,42 points!
+505,Watchog,Normal,420 points!,60 points!,85 points!,69 points!,60 points!,69 points!,77 points!
+506,Lillipup,Normal,275 points!,45 points!,60 points!,45 points!,25 points!,45 points!,55 points!
+507,Herdier,Normal,370 points!,65 points!,80 points!,65 points!,35 points!,65 points!,60 points!
+508,Stoutland,Normal,500 points!,85 points!,110 points!,90 points!,45 points!,90 points!,80 points!
+509,Purrloin,Dark,281 points!,41 points!,50 points!,37 points!,50 points!,37 points!,66 points!
+510,Liepard,Dark,446 points!,64 points!,88 points!,50 points!,88 points!,50 points!,106 points!
+511,Pansage,Grass,316 points!,50 points!,53 points!,48 points!,53 points!,48 points!,64 points!
+512,Simisage,Grass,498 points!,75 points!,98 points!,63 points!,98 points!,63 points!,101 points!
+513,Pansear,Fire,316 points!,50 points!,53 points!,48 points!,53 points!,48 points!,64 points!
+514,Simisear,Fire,498 points!,75 points!,98 points!,63 points!,98 points!,63 points!,101 points!
+515,Panpour,Water,316 points!,50 points!,53 points!,48 points!,53 points!,48 points!,64 points!
+516,Simipour,Water,498 points!,75 points!,98 points!,63 points!,98 points!,63 points!,101 points!
+517,Munna,Psychic,292 points!,76 points!,25 points!,45 points!,67 points!,55 points!,24 points!
+518,Musharna,Psychic,487 points!,116 points!,55 points!,85 points!,107 points!,95 points!,29 points!
+519,Pidove,NormalFlying,264 points!,50 points!,55 points!,50 points!,36 points!,30 points!,43 points!
+520,Tranquill,NormalFlying,358 points!,62 points!,77 points!,62 points!,50 points!,42 points!,65 points!
+521,Unfezant,NormalFlying,488 points!,80 points!,115 points!,80 points!,65 points!,55 points!,93 points!
+522,Blitzle,Electric,295 points!,45 points!,60 points!,32 points!,50 points!,32 points!,76 points!
+523,Zebstrika,Electric,497 points!,75 points!,100 points!,63 points!,80 points!,63 points!,116 points!
+524,Roggenrola,Rock,280 points!,55 points!,75 points!,85 points!,25 points!,25 points!,15 points!
+525,Boldore,Rock,390 points!,70 points!,105 points!,105 points!,50 points!,40 points!,20 points!
+526,Gigalith,Rock,515 points!,85 points!,135 points!,130 points!,60 points!,80 points!,25 points!
+527,Woobat,PsychicFlying,313 points!,55 points!,45 points!,43 points!,55 points!,43 points!,72 points!
+528,Swoobat,PsychicFlying,425 points!,67 points!,57 points!,55 points!,77 points!,55 points!,114 points!
+529,Drilbur,Ground,328 points!,60 points!,85 points!,40 points!,30 points!,45 points!,68 points!
+530,Excadrill,GroundSteel,508 points!,110 points!,135 points!,60 points!,50 points!,65 points!,88 points!
+531,Audino,Normal,445 points!,103 points!,60 points!,86 points!,60 points!,86 points!,50 points!
+531,AudinoMega Audino,NormalFairy,545 points!,103 points!,60 points!,126 points!,80 points!,126 points!,50 points!
+532,Timburr,Fighting,305 points!,75 points!,80 points!,55 points!,25 points!,35 points!,35 points!
+533,Gurdurr,Fighting,405 points!,85 points!,105 points!,85 points!,40 points!,50 points!,40 points!
+534,Conkeldurr,Fighting,505 points!,105 points!,140 points!,95 points!,55 points!,65 points!,45 points!
+535,Tympole,Water,294 points!,50 points!,50 points!,40 points!,50 points!,40 points!,64 points!
+536,Palpitoad,WaterGround,384 points!,75 points!,65 points!,55 points!,65 points!,55 points!,69 points!
+537,Seismitoad,WaterGround,509 points!,105 points!,95 points!,75 points!,85 points!,75 points!,74 points!
+538,Throh,Fighting,465 points!,120 points!,100 points!,85 points!,30 points!,85 points!,45 points!
+539,Sawk,Fighting,465 points!,75 points!,125 points!,75 points!,30 points!,75 points!,85 points!
+540,Sewaddle,BugGrass,310 points!,45 points!,53 points!,70 points!,40 points!,60 points!,42 points!
+541,Swadloon,BugGrass,380 points!,55 points!,63 points!,90 points!,50 points!,80 points!,42 points!
+542,Leavanny,BugGrass,500 points!,75 points!,103 points!,80 points!,70 points!,80 points!,92 points!
+543,Venipede,BugPoison,260 points!,30 points!,45 points!,59 points!,30 points!,39 points!,57 points!
+544,Whirlipede,BugPoison,360 points!,40 points!,55 points!,99 points!,40 points!,79 points!,47 points!
+545,Scolipede,BugPoison,485 points!,60 points!,100 points!,89 points!,55 points!,69 points!,112 points!
+546,Cottonee,GrassFairy,280 points!,40 points!,27 points!,60 points!,37 points!,50 points!,66 points!
+547,Whimsicott,GrassFairy,480 points!,60 points!,67 points!,85 points!,77 points!,75 points!,116 points!
+548,Petilil,Grass,280 points!,45 points!,35 points!,50 points!,70 points!,50 points!,30 points!
+549,Lilligant,Grass,480 points!,70 points!,60 points!,75 points!,110 points!,75 points!,90 points!
+550,Basculin,Water,460 points!,70 points!,92 points!,65 points!,80 points!,55 points!,98 points!
+551,Sandile,GroundDark,292 points!,50 points!,72 points!,35 points!,35 points!,35 points!,65 points!
+552,Krokorok,GroundDark,351 points!,60 points!,82 points!,45 points!,45 points!,45 points!,74 points!
+553,Krookodile,GroundDark,519 points!,95 points!,117 points!,80 points!,65 points!,70 points!,92 points!
+554,Darumaka,Fire,315 points!,70 points!,90 points!,45 points!,15 points!,45 points!,50 points!
+555,DarmanitanStandard Mode,Fire,480 points!,105 points!,140 points!,55 points!,30 points!,55 points!,95 points!
+555,DarmanitanZen Mode,FirePsychic,540 points!,105 points!,30 points!,105 points!,140 points!,105 points!,55 points!
+556,Maractus,Grass,461 points!,75 points!,86 points!,67 points!,106 points!,67 points!,60 points!
+557,Dwebble,BugRock,325 points!,50 points!,65 points!,85 points!,35 points!,35 points!,55 points!
+558,Crustle,BugRock,475 points!,70 points!,95 points!,125 points!,65 points!,75 points!,45 points!
+559,Scraggy,DarkFighting,348 points!,50 points!,75 points!,70 points!,35 points!,70 points!,48 points!
+560,Scrafty,DarkFighting,488 points!,65 points!,90 points!,115 points!,45 points!,115 points!,58 points!
+561,Sigilyph,PsychicFlying,490 points!,72 points!,58 points!,80 points!,103 points!,80 points!,97 points!
+562,Yamask,Ghost,303 points!,38 points!,30 points!,85 points!,55 points!,65 points!,30 points!
+563,Cofagrigus,Ghost,483 points!,58 points!,50 points!,145 points!,95 points!,105 points!,30 points!
+564,Tirtouga,WaterRock,355 points!,54 points!,78 points!,103 points!,53 points!,45 points!,22 points!
+565,Carracosta,WaterRock,495 points!,74 points!,108 points!,133 points!,83 points!,65 points!,32 points!
+566,Archen,RockFlying,401 points!,55 points!,112 points!,45 points!,74 points!,45 points!,70 points!
+567,Archeops,RockFlying,567 points!,75 points!,140 points!,65 points!,112 points!,65 points!,110 points!
+568,Trubbish,Poison,329 points!,50 points!,50 points!,62 points!,40 points!,62 points!,65 points!
+569,Garbodor,Poison,474 points!,80 points!,95 points!,82 points!,60 points!,82 points!,75 points!
+570,Zorua,Dark,330 points!,40 points!,65 points!,40 points!,80 points!,40 points!,65 points!
+571,Zoroark,Dark,510 points!,60 points!,105 points!,60 points!,120 points!,60 points!,105 points!
+572,Minccino,Normal,300 points!,55 points!,50 points!,40 points!,40 points!,40 points!,75 points!
+573,Cinccino,Normal,470 points!,75 points!,95 points!,60 points!,65 points!,60 points!,115 points!
+574,Gothita,Psychic,290 points!,45 points!,30 points!,50 points!,55 points!,65 points!,45 points!
+575,Gothorita,Psychic,390 points!,60 points!,45 points!,70 points!,75 points!,85 points!,55 points!
+576,Gothitelle,Psychic,490 points!,70 points!,55 points!,95 points!,95 points!,110 points!,65 points!
+577,Solosis,Psychic,290 points!,45 points!,30 points!,40 points!,105 points!,50 points!,20 points!
+578,Duosion,Psychic,370 points!,65 points!,40 points!,50 points!,125 points!,60 points!,30 points!
+579,Reuniclus,Psychic,490 points!,110 points!,65 points!,75 points!,125 points!,85 points!,30 points!
+580,Ducklett,WaterFlying,305 points!,62 points!,44 points!,50 points!,44 points!,50 points!,55 points!
+581,Swanna,WaterFlying,473 points!,75 points!,87 points!,63 points!,87 points!,63 points!,98 points!
+582,Vanillite,Ice,305 points!,36 points!,50 points!,50 points!,65 points!,60 points!,44 points!
+583,Vanillish,Ice,395 points!,51 points!,65 points!,65 points!,80 points!,75 points!,59 points!
+584,Vanilluxe,Ice,535 points!,71 points!,95 points!,85 points!,110 points!,95 points!,79 points!
+585,Deerling,NormalGrass,335 points!,60 points!,60 points!,50 points!,40 points!,50 points!,75 points!
+586,Sawsbuck,NormalGrass,475 points!,80 points!,100 points!,70 points!,60 points!,70 points!,95 points!
+587,Emolga,ElectricFlying,428 points!,55 points!,75 points!,60 points!,75 points!,60 points!,103 points!
+588,Karrablast,Bug,315 points!,50 points!,75 points!,45 points!,40 points!,45 points!,60 points!
+589,Escavalier,BugSteel,495 points!,70 points!,135 points!,105 points!,60 points!,105 points!,20 points!
+590,Foongus,GrassPoison,294 points!,69 points!,55 points!,45 points!,55 points!,55 points!,15 points!
+591,Amoonguss,GrassPoison,464 points!,114 points!,85 points!,70 points!,85 points!,80 points!,30 points!
+592,Frillish,WaterGhost,335 points!,55 points!,40 points!,50 points!,65 points!,85 points!,40 points!
+593,Jellicent,WaterGhost,480 points!,100 points!,60 points!,70 points!,85 points!,105 points!,60 points!
+594,Alomomola,Water,470 points!,165 points!,75 points!,80 points!,40 points!,45 points!,65 points!
+595,Joltik,BugElectric,319 points!,50 points!,47 points!,50 points!,57 points!,50 points!,65 points!
+596,Galvantula,BugElectric,472 points!,70 points!,77 points!,60 points!,97 points!,60 points!,108 points!
+597,Ferroseed,GrassSteel,305 points!,44 points!,50 points!,91 points!,24 points!,86 points!,10 points!
+598,Ferrothorn,GrassSteel,489 points!,74 points!,94 points!,131 points!,54 points!,116 points!,20 points!
+599,Klink,Steel,300 points!,40 points!,55 points!,70 points!,45 points!,60 points!,30 points!
+600,Klang,Steel,440 points!,60 points!,80 points!,95 points!,70 points!,85 points!,50 points!
+601,Klinklang,Steel,520 points!,60 points!,100 points!,115 points!,70 points!,85 points!,90 points!
+602,Tynamo,Electric,275 points!,35 points!,55 points!,40 points!,45 points!,40 points!,60 points!
+603,Eelektrik,Electric,405 points!,65 points!,85 points!,70 points!,75 points!,70 points!,40 points!
+604,Eelektross,Electric,515 points!,85 points!,115 points!,80 points!,105 points!,80 points!,50 points!
+605,Elgyem,Psychic,335 points!,55 points!,55 points!,55 points!,85 points!,55 points!,30 points!
+606,Beheeyem,Psychic,485 points!,75 points!,75 points!,75 points!,125 points!,95 points!,40 points!
+607,Litwick,GhostFire,275 points!,50 points!,30 points!,55 points!,65 points!,55 points!,20 points!
+608,Lampent,GhostFire,370 points!,60 points!,40 points!,60 points!,95 points!,60 points!,55 points!
+609,Chandelure,GhostFire,520 points!,60 points!,55 points!,90 points!,145 points!,90 points!,80 points!
+610,Axew,Dragon,320 points!,46 points!,87 points!,60 points!,30 points!,40 points!,57 points!
+611,Fraxure,Dragon,410 points!,66 points!,117 points!,70 points!,40 points!,50 points!,67 points!
+612,Haxorus,Dragon,540 points!,76 points!,147 points!,90 points!,60 points!,70 points!,97 points!
+613,Cubchoo,Ice,305 points!,55 points!,70 points!,40 points!,60 points!,40 points!,40 points!
+614,Beartic,Ice,485 points!,95 points!,110 points!,80 points!,70 points!,80 points!,50 points!
+615,Cryogonal,Ice,485 points!,70 points!,50 points!,30 points!,95 points!,135 points!,105 points!
+616,Shelmet,Bug,305 points!,50 points!,40 points!,85 points!,40 points!,65 points!,25 points!
+617,Accelgor,Bug,495 points!,80 points!,70 points!,40 points!,100 points!,60 points!,145 points!
+618,Stunfisk,GroundElectric,471 points!,109 points!,66 points!,84 points!,81 points!,99 points!,32 points!
+619,Mienfoo,Fighting,350 points!,45 points!,85 points!,50 points!,55 points!,50 points!,65 points!
+620,Mienshao,Fighting,510 points!,65 points!,125 points!,60 points!,95 points!,60 points!,105 points!
+621,Druddigon,Dragon,485 points!,77 points!,120 points!,90 points!,60 points!,90 points!,48 points!
+622,Golett,GroundGhost,303 points!,59 points!,74 points!,50 points!,35 points!,50 points!,35 points!
+623,Golurk,GroundGhost,483 points!,89 points!,124 points!,80 points!,55 points!,80 points!,55 points!
+624,Pawniard,DarkSteel,340 points!,45 points!,85 points!,70 points!,40 points!,40 points!,60 points!
+625,Bisharp,DarkSteel,490 points!,65 points!,125 points!,100 points!,60 points!,70 points!,70 points!
+626,Bouffalant,Normal,490 points!,95 points!,110 points!,95 points!,40 points!,95 points!,55 points!
+627,Rufflet,NormalFlying,350 points!,70 points!,83 points!,50 points!,37 points!,50 points!,60 points!
+628,Braviary,NormalFlying,510 points!,100 points!,123 points!,75 points!,57 points!,75 points!,80 points!
+629,Vullaby,DarkFlying,370 points!,70 points!,55 points!,75 points!,45 points!,65 points!,60 points!
+630,Mandibuzz,DarkFlying,510 points!,110 points!,65 points!,105 points!,55 points!,95 points!,80 points!
+631,Heatmor,Fire,484 points!,85 points!,97 points!,66 points!,105 points!,66 points!,65 points!
+632,Durant,BugSteel,484 points!,58 points!,109 points!,112 points!,48 points!,48 points!,109 points!
+633,Deino,DarkDragon,300 points!,52 points!,65 points!,50 points!,45 points!,50 points!,38 points!
+634,Zweilous,DarkDragon,420 points!,72 points!,85 points!,70 points!,65 points!,70 points!,58 points!
+635,Hydreigon,DarkDragon,600 points!,92 points!,105 points!,90 points!,125 points!,90 points!,98 points!
+636,Larvesta,BugFire,360 points!,55 points!,85 points!,55 points!,50 points!,55 points!,60 points!
+637,Volcarona,BugFire,550 points!,85 points!,60 points!,65 points!,135 points!,105 points!,100 points!
+638,Cobalion,SteelFighting,580 points!,91 points!,90 points!,129 points!,90 points!,72 points!,108 points!
+639,Terrakion,RockFighting,580 points!,91 points!,129 points!,90 points!,72 points!,90 points!,108 points!
+640,Virizion,GrassFighting,580 points!,91 points!,90 points!,72 points!,90 points!,129 points!,108 points!
+641,TornadusIncarnate Forme,Flying,580 points!,79 points!,115 points!,70 points!,125 points!,80 points!,111 points!
+641,TornadusTherian Forme,Flying,580 points!,79 points!,100 points!,80 points!,110 points!,90 points!,121 points!
+642,ThundurusIncarnate Forme,ElectricFlying,580 points!,79 points!,115 points!,70 points!,125 points!,80 points!,111 points!
+642,ThundurusTherian Forme,ElectricFlying,580 points!,79 points!,105 points!,70 points!,145 points!,80 points!,101 points!
+643,Reshiram,DragonFire,680 points!,100 points!,120 points!,100 points!,150 points!,120 points!,90 points!
+644,Zekrom,DragonElectric,680 points!,100 points!,150 points!,120 points!,120 points!,100 points!,90 points!
+645,LandorusIncarnate Forme,GroundFlying,600 points!,89 points!,125 points!,90 points!,115 points!,80 points!,101 points!
+645,LandorusTherian Forme,GroundFlying,600 points!,89 points!,145 points!,90 points!,105 points!,80 points!,91 points!
+646,Kyurem,DragonIce,660 points!,125 points!,130 points!,90 points!,130 points!,90 points!,95 points!
+646,KyuremBlack Kyurem,DragonIce,700 points!,125 points!,170 points!,100 points!,120 points!,90 points!,95 points!
+646,KyuremWhite Kyurem,DragonIce,700 points!,125 points!,120 points!,90 points!,170 points!,100 points!,95 points!
+647,KeldeoOrdinary Forme,WaterFighting,580 points!,91 points!,72 points!,90 points!,129 points!,90 points!,108 points!
+647,KeldeoResolute Forme,WaterFighting,580 points!,91 points!,72 points!,90 points!,129 points!,90 points!,108 points!
+648,MeloettaAria Forme,NormalPsychic,600 points!,100 points!,77 points!,77 points!,128 points!,128 points!,90 points!
+648,MeloettaPirouette Forme,NormalFighting,600 points!,100 points!,128 points!,90 points!,77 points!,77 points!,128 points!
+649,Genesect,BugSteel,600 points!,71 points!,120 points!,95 points!,120 points!,95 points!,99 points!
+650,Chespin,Grass,313 points!,56 points!,61 points!,65 points!,48 points!,45 points!,38 points!
+651,Quilladin,Grass,405 points!,61 points!,78 points!,95 points!,56 points!,58 points!,57 points!
+652,Chesnaught,GrassFighting,530 points!,88 points!,107 points!,122 points!,74 points!,75 points!,64 points!
+653,Fennekin,Fire,307 points!,40 points!,45 points!,40 points!,62 points!,60 points!,60 points!
+654,Braixen,Fire,409 points!,59 points!,59 points!,58 points!,90 points!,70 points!,73 points!
+655,Delphox,FirePsychic,534 points!,75 points!,69 points!,72 points!,114 points!,100 points!,104 points!
+656,Froakie,Water,314 points!,41 points!,56 points!,40 points!,62 points!,44 points!,71 points!
+657,Frogadier,Water,405 points!,54 points!,63 points!,52 points!,83 points!,56 points!,97 points!
+658,Greninja,WaterDark,530 points!,72 points!,95 points!,67 points!,103 points!,71 points!,122 points!
+659,Bunnelby,Normal,237 points!,38 points!,36 points!,38 points!,32 points!,36 points!,57 points!
+660,Diggersby,NormalGround,423 points!,85 points!,56 points!,77 points!,50 points!,77 points!,78 points!
+661,Fletchling,NormalFlying,278 points!,45 points!,50 points!,43 points!,40 points!,38 points!,62 points!
+662,Fletchinder,FireFlying,382 points!,62 points!,73 points!,55 points!,56 points!,52 points!,84 points!
+663,Talonflame,FireFlying,499 points!,78 points!,81 points!,71 points!,74 points!,69 points!,126 points!
+664,Scatterbug,Bug,200 points!,38 points!,35 points!,40 points!,27 points!,25 points!,35 points!
+665,Spewpa,Bug,213 points!,45 points!,22 points!,60 points!,27 points!,30 points!,29 points!
+666,Vivillon,BugFlying,411 points!,80 points!,52 points!,50 points!,90 points!,50 points!,89 points!
+667,Litleo,FireNormal,369 points!,62 points!,50 points!,58 points!,73 points!,54 points!,72 points!
+668,Pyroar,FireNormal,507 points!,86 points!,68 points!,72 points!,109 points!,66 points!,106 points!
+669,Flabebe,Fairy,303 points!,44 points!,38 points!,39 points!,61 points!,79 points!,42 points!
+670,Floette,Fairy,371 points!,54 points!,45 points!,47 points!,75 points!,98 points!,52 points!
+671,Florges,Fairy,552 points!,78 points!,65 points!,68 points!,112 points!,154 points!,75 points!
+672,Skiddo,Grass,350 points!,66 points!,65 points!,48 points!,62 points!,57 points!,52 points!
+673,Gogoat,Grass,531 points!,123 points!,100 points!,62 points!,97 points!,81 points!,68 points!
+674,Pancham,Fighting,348 points!,67 points!,82 points!,62 points!,46 points!,48 points!,43 points!
+675,Pangoro,FightingDark,495 points!,95 points!,124 points!,78 points!,69 points!,71 points!,58 points!
+676,Furfrou,Normal,472 points!,75 points!,80 points!,60 points!,65 points!,90 points!,102 points!
+677,Espurr,Psychic,355 points!,62 points!,48 points!,54 points!,63 points!,60 points!,68 points!
+678,MeowsticMale,Psychic,466 points!,74 points!,48 points!,76 points!,83 points!,81 points!,104 points!
+678,MeowsticFemale,Psychic,466 points!,74 points!,48 points!,76 points!,83 points!,81 points!,104 points!
+679,Honedge,SteelGhost,325 points!,45 points!,80 points!,100 points!,35 points!,37 points!,28 points!
+680,Doublade,SteelGhost,448 points!,59 points!,110 points!,150 points!,45 points!,49 points!,35 points!
+681,AegislashBlade Forme,SteelGhost,520 points!,60 points!,150 points!,50 points!,150 points!,50 points!,60 points!
+681,AegislashShield Forme,SteelGhost,520 points!,60 points!,50 points!,150 points!,50 points!,150 points!,60 points!
+682,Spritzee,Fairy,341 points!,78 points!,52 points!,60 points!,63 points!,65 points!,23 points!
+683,Aromatisse,Fairy,462 points!,101 points!,72 points!,72 points!,99 points!,89 points!,29 points!
+684,Swirlix,Fairy,341 points!,62 points!,48 points!,66 points!,59 points!,57 points!,49 points!
+685,Slurpuff,Fairy,480 points!,82 points!,80 points!,86 points!,85 points!,75 points!,72 points!
+686,Inkay,DarkPsychic,288 points!,53 points!,54 points!,53 points!,37 points!,46 points!,45 points!
+687,Malamar,DarkPsychic,482 points!,86 points!,92 points!,88 points!,68 points!,75 points!,73 points!
+688,Binacle,RockWater,306 points!,42 points!,52 points!,67 points!,39 points!,56 points!,50 points!
+689,Barbaracle,RockWater,500 points!,72 points!,105 points!,115 points!,54 points!,86 points!,68 points!
+690,Skrelp,PoisonWater,320 points!,50 points!,60 points!,60 points!,60 points!,60 points!,30 points!
+691,Dragalge,PoisonDragon,494 points!,65 points!,75 points!,90 points!,97 points!,123 points!,44 points!
+692,Clauncher,Water,330 points!,50 points!,53 points!,62 points!,58 points!,63 points!,44 points!
+693,Clawitzer,Water,500 points!,71 points!,73 points!,88 points!,120 points!,89 points!,59 points!
+694,Helioptile,ElectricNormal,289 points!,44 points!,38 points!,33 points!,61 points!,43 points!,70 points!
+695,Heliolisk,ElectricNormal,481 points!,62 points!,55 points!,52 points!,109 points!,94 points!,109 points!
+696,Tyrunt,RockDragon,362 points!,58 points!,89 points!,77 points!,45 points!,45 points!,48 points!
+697,Tyrantrum,RockDragon,521 points!,82 points!,121 points!,119 points!,69 points!,59 points!,71 points!
+698,Amaura,RockIce,362 points!,77 points!,59 points!,50 points!,67 points!,63 points!,46 points!
+699,Aurorus,RockIce,521 points!,123 points!,77 points!,72 points!,99 points!,92 points!,58 points!
+700,Sylveon,Fairy,525 points!,95 points!,65 points!,65 points!,110 points!,130 points!,60 points!
+701,Hawlucha,FightingFlying,500 points!,78 points!,92 points!,75 points!,74 points!,63 points!,118 points!
+702,Dedenne,ElectricFairy,431 points!,67 points!,58 points!,57 points!,81 points!,67 points!,101 points!
+703,Carbink,RockFairy,500 points!,50 points!,50 points!,150 points!,50 points!,150 points!,50 points!
+704,Goomy,Dragon,300 points!,45 points!,50 points!,35 points!,55 points!,75 points!,40 points!
+705,Sliggoo,Dragon,452 points!,68 points!,75 points!,53 points!,83 points!,113 points!,60 points!
+706,Goodra,Dragon,600 points!,90 points!,100 points!,70 points!,110 points!,150 points!,80 points!
+707,Klefki,SteelFairy,470 points!,57 points!,80 points!,91 points!,80 points!,87 points!,75 points!
+708,Phantump,GhostGrass,309 points!,43 points!,70 points!,48 points!,50 points!,60 points!,38 points!
+709,Trevenant,GhostGrass,474 points!,85 points!,110 points!,76 points!,65 points!,82 points!,56 points!
+710,PumpkabooAverage Size,GhostGrass,335 points!,49 points!,66 points!,70 points!,44 points!,55 points!,51 points!
+710,PumpkabooSmall Size,GhostGrass,335 points!,44 points!,66 points!,70 points!,44 points!,55 points!,56 points!
+710,PumpkabooLarge Size,GhostGrass,335 points!,54 points!,66 points!,70 points!,44 points!,55 points!,46 points!
+710,PumpkabooSuper Size,GhostGrass,335 points!,59 points!,66 points!,70 points!,44 points!,55 points!,41 points!
+711,GourgeistAverage Size,GhostGrass,494 points!,65 points!,90 points!,122 points!,58 points!,75 points!,84 points!
+711,GourgeistSmall Size,GhostGrass,494 points!,55 points!,85 points!,122 points!,58 points!,75 points!,99 points!
+711,GourgeistLarge Size,GhostGrass,494 points!,75 points!,95 points!,122 points!,58 points!,75 points!,69 points!
+711,GourgeistSuper Size,GhostGrass,494 points!,85 points!,100 points!,122 points!,58 points!,75 points!,54 points!
+712,Bergmite,Ice,304 points!,55 points!,69 points!,85 points!,32 points!,35 points!,28 points!
+713,Avalugg,Ice,514 points!,95 points!,117 points!,184 points!,44 points!,46 points!,28 points!
+714,Noibat,FlyingDragon,245 points!,40 points!,30 points!,35 points!,45 points!,40 points!,55 points!
+715,Noivern,FlyingDragon,535 points!,85 points!,70 points!,80 points!,97 points!,80 points!,123 points!
+716,Xerneas,Fairy,680 points!,126 points!,131 points!,95 points!,131 points!,98 points!,99 points!
+717,Yveltal,DarkFlying,680 points!,126 points!,131 points!,95 points!,131 points!,98 points!,99 points!
+718,Zygarde Forme,DragonGround,600 points!,108 points!,100 points!,121 points!,81 points!,95 points!,95 points!
+719,Diancie,RockFairy,600 points!,50 points!,100 points!,150 points!,100 points!,150 points!,50 points!
+719,DiancieMega Diancie,RockFairy,700 points!,50 points!,160 points!,110 points!,160 points!,110 points!,110 points!
+720,HoopaHoopa Confined,PsychicGhost,600 points!,80 points!,110 points!,60 points!,150 points!,130 points!,70 points!
+720,HoopaHoopa Unbound,PsychicDark,680 points!,80 points!,160 points!,60 points!,170 points!,130 points!,80 points!
+721,Volcanion,FireWater,600 points!,80 points!,110 points!,120 points!,130 points!,90 points!,70 points!
